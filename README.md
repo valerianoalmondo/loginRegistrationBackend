@@ -40,5 +40,11 @@ Send email using Java Mail and Spring Framework's JavaMailSender.
 
 ### Database setup
 
-- 
+- Creating and Connecting database
 
+### App user / Creating App classes upon Spring boot Security
+
+- Creating App user
+- Creating App user repository
+- Creating App user role
+- Creating App user service
